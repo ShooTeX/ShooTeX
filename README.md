@@ -14,12 +14,12 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shootex&theme=github_dark&hide=dart,css,javascript,cmake,c%2B%2B&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shootex&theme=github_dark&layout=compact&hide=dart,css,javascript,cmake,c%2B%2B"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shootex&hide=dart,css,javascript,cmake,c%2B%2B&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shootex&layout=compact&hide=dart,css,javascript,cmake,c%2B%2B"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=shootex&hide=dart,css,javascript,cmake,c%2B%2B&layout=compact" />
+<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=shootex&layout=compact&hide=dart,css,javascript,cmake,c%2B%2B" />
 </picture>
