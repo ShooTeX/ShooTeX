@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 
+<p align="center">
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=shootex&count_private=true&show_icons=true&theme=github_dark"
@@ -11,7 +12,7 @@
 />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shootex&count_private=true&show_icons=true" />
 </picture>
-
+<br />
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shootex&theme=github_dark&layout=compact&hide=dart%2Ccss%2Cjavascript%2Ccmake%2Cc%2B%2B"
@@ -23,3 +24,4 @@
 />
 <img align="center" src="https://github-readme-stats.vercel.app//api/top-langs/?username=shootex&layout=compact&hide=dart%2Ccss%2Cjavascript%2Ccmake%2Cc%2B%2B" />
 </picture>
+</p>
