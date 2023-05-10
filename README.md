@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=neovim,nodejs,vercel,ts,react,nextjs,tailwind,graphql,prisma,mysql,postgresql,flutter,dart" />
+<picture>
+<source
+  srcset="https://skillicons.dev/icons?i=neovim%2Cnodejs%2Cvercel%2Cts%2Creact%2Cnextjs%2Ctailwind%2Cgraphql%2Cprisma%2Cmysql%2Cpostgresql%2Cflutter%2Cdart&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://skillicons.dev/icons?i=neovim%2Cnodejs%2Cvercel%2Cts%2Creact%2Cnextjs%2Ctailwind%2Cgraphql%2Cprisma%2Cmysql%2Cpostgresql%2Cflutter%2Cdart&theme=light"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="center" src="https://skillicons.dev/icons?i=neovim%2Cnodejs%2Cvercel%2Cts%2Creact%2Cnextjs%2Ctailwind%2Cgraphql%2Cprisma%2Cmysql%2Cpostgresql%2Cflutter%2Cdart&theme=light" />
+</picture>
 <br />
 <br />
 <picture>
