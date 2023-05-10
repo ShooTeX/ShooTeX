@@ -14,7 +14,7 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shootex&theme=github_dark&layout=compact&hide=dart,css,javascript,cmake,c%2B%2B"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shootex&theme=github_dark&layout=compact&hide=dart%2Ccss%2Cjavascript%2Ccmake%2Cc%2B%2B"
   media="(prefers-color-scheme: dark)"
 />
 <source
