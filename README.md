@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Erik</h1>
+<h1 align="center">
+  
+  ![views](https://komarev.com/ghpvc/?username=shootex)
+  
+  Hi 👋, I'm Erik
+</h1>
+
+
 
 <p align="center">
 <picture>
